@@ -1,0 +1,15 @@
+# Bỏ qua môi trường ảo (Thủ phạm của 10.000 file)
+venv/
+
+# Bỏ qua thư mục build của C++
+build/
+
+# Bỏ qua cấu hình riêng tư của VS Code
+.vscode/
+
+# Bỏ qua cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua dataset nặng (tùy chọn, nếu bạn không muốn up data lên)
+data/
